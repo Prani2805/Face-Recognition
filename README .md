@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+Face Recognition
 # Face and Cat Detection
 
 This Python code utilizes OpenCV (cv2) to perform face and cat detection in images or through a webcam. It provides options to detect cats, humans, or both in a given image or through live video from the webcam.
