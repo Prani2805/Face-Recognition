@@ -1,6 +1,4 @@
 
-# Project Title
-
 Face Recognition
 # Face and Cat Detection
 
